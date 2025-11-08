@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python programming | Python libraries**
 
-- 📫 How to reach me **shreyasharma9981@gmail.com**
+- 📫 How to reach me **shreya.sharma110404@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny XD**
 
